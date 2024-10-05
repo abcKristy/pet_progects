@@ -1,2 +1,2 @@
-# pet_progecrs
+# pet_progects
 Pet 1 - консольное приложение крестики-нолики
